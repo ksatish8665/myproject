@@ -13,7 +13,7 @@ package myproject;
 		}
 
 		public static void main(String[] args) {
-			
+			System.out.prntln("Automaiton Selenium")
 			System.out.println(m);
 			Test1 s = new Test1();
 			s.display();
